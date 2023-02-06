@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Cakes\bin\Debug\net6.0\Cakes.exe
+C:\Users\User\source\repos\Cakes\bin\Debug\net6.0\Cakes.deps.json
+C:\Users\User\source\repos\Cakes\bin\Debug\net6.0\Cakes.runtimeconfig.json
+C:\Users\User\source\repos\Cakes\bin\Debug\net6.0\Cakes.dll
+C:\Users\User\source\repos\Cakes\bin\Debug\net6.0\Cakes.pdb
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\Cakes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\Cakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\Cakes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\Cakes.AssemblyInfo.cs
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\Cakes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\Cakes.dll
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\refint\Cakes.dll
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\Cakes.pdb
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\Cakes.genruntimeconfig.cache
+C:\Users\User\source\repos\Cakes\obj\Debug\net6.0\ref\Cakes.dll
